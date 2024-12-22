@@ -1013,11 +1013,15 @@ header nav ul li a {
 
 ![alt text](register.png)
 
+
 ![alt text](menu.png)
+
 
 ![alt text](administration.png)
 
+
 ![alt text](contact_us.png)
+
 
 ![alt text](about_us.png)
 
